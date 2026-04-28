@@ -10,7 +10,7 @@ Hi, I'm Saksham, a cybersecurity enthusiast focused on web application security 
 
 ## 📂 Writeups
 
-### 🔐 OTP Rate Limiting Weakness (Duplicate Finding)
+### 🔐 OTP Rate Limiting Weakness 
 
 #### Summary
 Identified a weakness in OTP verification where the system allowed ~120–130 attempts before mitigation.
@@ -30,9 +30,6 @@ Identified a weakness in OTP verification where the system allowed ~120–130 at
 - ~130 attempts = ~1.3% coverage
 - Increased brute-force feasibility
 
-#### Status
-- Reported via bug bounty program
-- Marked as **Duplicate**
 
 #### Tools Used
 - Burp Suite
